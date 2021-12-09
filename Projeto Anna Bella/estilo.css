@@ -1,0 +1,84 @@
+h1{
+	color:#BE986B ;
+	margin-left:40px;
+}
+
+h2{
+	color:#453A2E ;
+	margin-left:10px;
+
+}
+
+h3{
+	color: #453A2E ;
+	text-align: center;
+	margin-top: 80px;
+}
+
+p{
+	color:#453A2E ;
+	margin-left:10px;
+	font-size:20px;
+}
+
+input{
+	width: 90%;
+}
+
+textarea{
+	width: 90%;
+	height: 100px
+}
+
+
+#background {
+	background-image: url('imagens/fundo.png');
+}
+
+.cabecalho {
+	background: url('imagens/capa.png') no-repeat scroll center top;
+
+}
+
+.menu{
+	font-size: 27px;
+	font-family:  Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	color: teal;
+	padding-top: 385px;
+	margin-left: 265px;
+
+}
+
+.backgroundmenu{
+	background-attachment: fixed;
+	background-color: #F6DDCC;
+	margin-top: -75px;
+	margin-right: 215px;
+	margin-left: 217px;
+
+}
+
+.backgroundsite {
+	background-attachment: scroll;
+	background-color: #FAE5D3 ;
+	margin-top: -21px;
+	margin-right: 215px;
+	margin-left: 217px;
+	font-family:Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif;
+
+
+}
+
+.borda{
+	margin-top: 20px;
+	margin-left: 16px;
+	border-color: #F5B7B1;
+	border-width: 15px;
+	border-style: ridge;
+}
+
+.formulario{
+	margin-left: 40px;
+
+}
+
